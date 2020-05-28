@@ -1,0 +1,14 @@
+{
+  "ProfileTitle": "Профиль",
+  "Name": "Имя",
+  "Message_EnterName": "Введите имя",
+  "Update": "Обновить",
+  "Menu_Bill": "Счет",
+  "Detail_Title": "Детали",
+  "Menu_History": "История",
+  "Menu_Planning": "Планирование",
+  "Menu_Record": "Новая запись",
+  "Menu_Categories": "Категории",
+  "Login": "Логин",
+  "Registration": "Регистрация"
+}
